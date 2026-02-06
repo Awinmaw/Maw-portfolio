@@ -1,1 +1,1 @@
-[📄 View](https://github.com/Awinmaw/Maw-portfolio)
+[📄 View](https://awinmaw.github.io/Maw-portfolio/)
